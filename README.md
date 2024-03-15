@@ -9,7 +9,7 @@
 
 - 🌱 Proficient in **Cloud/Devops** automation using Pulumi, AWS, and GCP services for infrastructure deployment and management
 
-- 💬 Expierenced in optimize code quality and **Iac deployment** using Kafka, Amazon SQS, S3, Load balancer, FastAPI, VPC, and Lambda triggers on AWS
+- 💬 Expierenced in optimize  code quality in **Spring Framework** and **Iac deployment** using Kafka, Amazon SQS, S3, Load balancer, FastAPI, VPC, and Lambda triggers on AWS
 
 - 📫 Expierenced in increasing **code coverage** through Unit and Integration Testing in JUnit, Mockito, PyTest, DocTest, Unittest.
 
